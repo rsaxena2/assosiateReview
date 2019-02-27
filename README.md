@@ -17,6 +17,3 @@ You will need to download Node.js for npm updates and Angualar CLI
 2) Open a CLI and navigate to the directory. 
 3) run: npm update 
 4) run: npm start 
-
-
-
